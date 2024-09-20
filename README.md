@@ -11,8 +11,10 @@ Styled using Tailwind CSS
 JavaScript functionality for interactivity
 Optimized for modern browsers
 
+
 Live Demo
 Visit the live demo here: kenemailerlite.com
+
 
 
 Getting Started
@@ -23,8 +25,8 @@ Node.js (version 14+)
 npm (Node package manager)
 
 Installation
-Clone the repository: git clone https://github.com/your-username/kenemailerlite.git
-Navigate to the project directory:cd kenemailerlite
+Clone the repository: git clone https://github.com/kenewachukwu/mailerlite.git
+Navigate to the project directory:cd mailerlite
 Install the required npm packages: npm install
 
 
