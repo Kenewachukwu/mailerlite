@@ -26,17 +26,23 @@ npm (Node package manager)
 
 Installation
 Clone the repository: git clone https://github.com/kenewachukwu/mailerlite.git
+
 Navigate to the project directory:cd mailerlite
+
 Install the required npm packages: npm install
 
 
 Running the Project
 To start the project locally and watch for changes, use the following command: npm run dev
+
 This command will start a local development server and automatically rebuild Tailwind CSS whenever changes are made.
+
 
 Build for Production
 To build the project for production, run: npm run build
+
 This will generate a minified version of your CSS files and other assets in the dist directory.
+
 
 Usage
 Customizing Tailwind CSS
